@@ -1,24 +1,23 @@
 <div align="center">
-  <h1>¡Hola, soy Diana 👋!</h1>
-  <h3>Técnica en Desarrollo de Aplicaciones Multiplataforma</h3>
+  <h1>Hi, I'm Diana 👋!</h1>
+  <h3>Multiplatform Application Development Technician</h3>
 </div>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d079ff0d-eeda-437d-8045-78e468bc5404" alt="Diana perfil" width="1000" />
+  <img src="https://raw.githubusercontent.com/TuUsuario/TuRepo/main/perfil.png" alt="Diana profile" width="1000" />
 </p>
-
 
 
 <div align="center">
 
-💻 Me apasiona crear soluciones funcionales y limpias usando tecnologías modernas.  
-🎯 Busco oportunidades donde pueda crecer como desarrolladora, especialmente en entornos colaborativos y proyectos desafiantes.
+💻 I'm passionate about building functional, clean, and modern tech solutions.  
+🎯 I’m looking for opportunities to grow as a developer, especially in collaborative and challenging environments.
 
 </div>
 
 ---
 
-## 🛠️ Tecnologías que domino
+## 🛠️ Technologies I use
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -30,50 +29,50 @@
 
 ---
 
-## 👩‍💻 Sobre mí
+## 👩‍💻 About Me
 
-- 💼 Formación en desarrollo multiplataforma (DAM)
-- 🧠 Apasionada por aprender nuevas herramientas y buenas prácticas
-- 🤝 Me encanta trabajar en equipo y construir soluciones útiles
-- 📲 Interesada en el desarrollo móvil, backend y proyectos multiplataforma
-- 🌍 Lista para formar parte de tu equipo como desarrolladora junior
+- 💼 Multiplatform App Development graduate (DAM)
+- 🧠 Passionate about learning new tools and best practices
+- 🤝 I love working in teams and building meaningful solutions
+- 📲 Interested in mobile development, backend services, and cross-platform projects
+- 🌍 Open to joining teams as a  Developer
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Featured Projects
 
 <table>
 <tr>
 
-<!-- App de cuentos infantiles -->
+<!-- Children's stories app -->
 <td width="50%">
-<h3 align="center">📖 App Cuentos Infantiles (Android)</h3>
+<h3 align="center">📖 Children's Stories App (Android)</h3>
 <div align="center">
-<img src="https://via.placeholder.com/400x200.png?text=Captura+App+Cuentos" width="400" alt="App cuentos infantiles" />
+<img src="https://via.placeholder.com/400x200.png?text=App+Screenshot" width="400" alt="Children's stories app" />
 <p>
 <a href="https://github.com/TuUsuario/App-Cuentos" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-Ver%20en%20GitHub-blue?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20CODE-GitHub-blue?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>Aplicación móvil nativa desarrollada en <strong>Kotlin</strong> que permite a los niños leer y escuchar cuentos interactivos.  
-Incluye interfaz amigable, control de audio y personalización visual.  
-Arquitectura MVVM, Room y recursos multimedia.</p>
+<p>Native mobile app built with <strong>Kotlin</strong> to allow kids to read and listen to interactive stories.  
+Features a child-friendly UI, audio controls, and visual customization.  
+Built using MVVM architecture, Room DB, and multimedia support.</p>
 </div>
 </td>
 
-<!-- Juego Pasapalabra -->
+<!-- Pasapalabra game -->
 <td width="50%">
-<h3 align="center">🎮 Juego Pasapalabra (.NET)</h3>
+<h3 align="center">🎮 Pasapalabra Game (.NET)</h3>
 <div align="center">
-<img src="https://via.placeholder.com/400x200.png?text=Captura+Juego+Pasapalabra" width="400" alt="Pasapalabra .NET" />
+<img src="https://via.placeholder.com/400x200.png?text=Pasapalabra+Game+Screenshot" width="400" alt="Pasapalabra game .NET" />
 <p>
 <a href="https://github.com/TuUsuario/Pasapalabra" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-Ver%20en%20GitHub-green?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20CODE-GitHub-green?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>Versión del popular juego <strong>Pasapalabra</strong> desarrollado en <strong>.NET (C#)</strong>.  
-Contiene lógica de juego por rondas, base de datos de preguntas, control de tiempos y animaciones.  
-Ideal para practicar lógica, UI en Windows Forms y manejo de eventos.</p>
+<p>A fun version of the classic game <strong>Pasapalabra</strong> built with <strong>.NET (C#)</strong>.  
+Includes game round logic, question database, time control, and animations.  
+Great for practicing algorithms, Windows Forms UI, and event handling.</p>
 </div>
 </td>
 
@@ -91,13 +90,14 @@ Ideal para practicar lógica, UI en Windows Forms y manejo de eventos.</p>
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
-Si estás buscando una desarrolladora junior proactiva, con ganas de aprender y aportar al equipo, ¡me encantaría hablar contigo!
+If you're looking for a proactive junior developer who's eager to learn and contribute to a team, I’d love to hear from you!
 
-- 📧 Email: [diana.canyas15@gmail.com]
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://www.linkedin.com/in/diana-canyas-016206254/)
+- 📧 Email: [diana.canyas15@gmail.com](mailto:diana.canyas15@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/diana-canyas-016206254](https://www.linkedin.com/in/diana-canyas-016206254/)
 
 ---
 
-<p align="center"><strong>¡Gracias por visitar mi perfil!</strong></p>
+<p align="center"><strong>Thanks for visiting my profile!</strong></p>
+
