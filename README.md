@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hi, I'm Diana 👋!</h1>
-  <h3>Multiplatform Application Development Technician</h3>
 </div>
 
 <p align="center">
