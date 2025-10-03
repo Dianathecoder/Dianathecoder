@@ -4,9 +4,10 @@
 </div>
 
 <p align="center">
-  <img src="<img width="1871" height="921" alt="image" src="https://github.com/user-attachments/assets/d079ff0d-eeda-437d-8045-78e468bc5404" />
-" alt="Diana perfil" width="250" />
+  <img src="https://github.com/user-attachments/assets/d079ff0d-eeda-437d-8045-78e468bc5404" alt="Diana perfil" width="250" />
 </p>
+
+
 
 <div align="center">
 
