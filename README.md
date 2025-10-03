@@ -4,9 +4,8 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TuUsuario/TuRepo/main/perfil.png" alt="Diana profile" width="1000" />
+  <img src="https://raw.githubusercontent.com/Dianathecoder/Dianathecoder/main/perfil.png" alt="Diana profile" width="1000" />
 </p>
-
 
 <div align="center">
 
@@ -31,11 +30,11 @@
 
 ## 👩‍💻 About Me
 
-- 💼 Multiplatform App Development graduate (DAM)
+- 💼 Graduate in Multiplatform Application Development (DAM)
 - 🧠 Passionate about learning new tools and best practices
-- 🤝 I love working in teams and building meaningful solutions
+- 🤝 I enjoy working in teams and building meaningful solutions
 - 📲 Interested in mobile development, backend services, and cross-platform projects
-- 🌍 Open to joining teams as a  Developer
+- 🌍 Ready to join a team as a Junior Developer
 
 ---
 
@@ -50,13 +49,13 @@
 <div align="center">
 <img src="https://via.placeholder.com/400x200.png?text=App+Screenshot" width="400" alt="Children's stories app" />
 <p>
-<a href="https://github.com/TuUsuario/App-Cuentos" target="_blank">
+<a href="https://github.com/Dianathecoder/App-Cuentos" target="_blank">
 <img src="https://img.shields.io/badge/VIEW%20CODE-GitHub-blue?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>Native mobile app built with <strong>Kotlin</strong> to allow kids to read and listen to interactive stories.  
-Features a child-friendly UI, audio controls, and visual customization.  
-Built using MVVM architecture, Room DB, and multimedia support.</p>
+<p>Native mobile app developed in <strong>Kotlin</strong> that allows children to read and listen to interactive stories.  
+Includes a child-friendly interface, audio playback, and visual customization.  
+Uses MVVM architecture, Room database, and multimedia resources.</p>
 </div>
 </td>
 
@@ -66,13 +65,13 @@ Built using MVVM architecture, Room DB, and multimedia support.</p>
 <div align="center">
 <img src="https://via.placeholder.com/400x200.png?text=Pasapalabra+Game+Screenshot" width="400" alt="Pasapalabra game .NET" />
 <p>
-<a href="https://github.com/TuUsuario/Pasapalabra" target="_blank">
+<a href="https://github.com/Dianathecoder/Pasapalabra" target="_blank">
 <img src="https://img.shields.io/badge/VIEW%20CODE-GitHub-green?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>A fun version of the classic game <strong>Pasapalabra</strong> built with <strong>.NET (C#)</strong>.  
-Includes game round logic, question database, time control, and animations.  
-Great for practicing algorithms, Windows Forms UI, and event handling.</p>
+<p>Custom version of the popular game <strong>Pasapalabra</strong> built with <strong>.NET (C#)</strong>.  
+Features round-based gameplay, question database, timer control, and animations.  
+Great for practicing logic, UI with Windows Forms, and event handling.</p>
 </div>
 </td>
 
@@ -92,12 +91,13 @@ Great for practicing algorithms, Windows Forms UI, and event handling.</p>
 
 ## 📫 Contact
 
-If you're looking for a proactive junior developer who's eager to learn and contribute to a team, I’d love to hear from you!
+If you're looking for a proactive junior developer who's eager to learn and contribute to your team, I’d love to hear from you!
 
-- 📧 Email: [diana.canyas15@gmail.com](mailto:diana.canyas15@gmail.com)
+- 📧 Email: [diana.canyas15@gmail.com](mailto:diana.canyas15@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/diana-canyas-016206254](https://www.linkedin.com/in/diana-canyas-016206254/)
 
 ---
 
 <p align="center"><strong>Thanks for visiting my profile!</strong></p>
+
 
