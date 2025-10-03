@@ -49,13 +49,10 @@
 <div align="center">
 <img src="https://via.placeholder.com/400x200.png?text=App+Screenshot" width="400" alt="Children's stories app" />
 <p>
-<a href="https://github.com/Dianathecoder/App-Cuentos" target="_blank">
-<img src="https://img.shields.io/badge/VIEW%20CODE-GitHub-blue?style=for-the-badge&logo=github&logoColor=white">
-</a>
+  Native mobile app developed in <strong>Kotlin</strong> that allows children to read and listen to interactive stories.  
+  Includes a child-friendly interface, audio playback, and visual customization.  
+  Uses MVVM architecture, Room database, and multimedia resources.
 </p>
-<p>Native mobile app developed in <strong>Kotlin</strong> that allows children to read and listen to interactive stories.  
-Includes a child-friendly interface, audio playback, and visual customization.  
-Uses MVVM architecture, Room database, and multimedia resources.</p>
 </div>
 </td>
 
@@ -65,18 +62,12 @@ Uses MVVM architecture, Room database, and multimedia resources.</p>
 <div align="center">
 <img src="https://via.placeholder.com/400x200.png?text=Pasapalabra+Game+Screenshot" width="400" alt="Pasapalabra game .NET" />
 <p>
-<a href="https://github.com/Dianathecoder/Pasapalabra" target="_blank">
-<img src="https://img.shields.io/badge/VIEW%20CODE-GitHub-green?style=for-the-badge&logo=github&logoColor=white">
-</a>
+  Custom version of the popular game <strong>Pasapalabra</strong> built with <strong>.NET (C#)</strong>.  
+  Features round-based gameplay, question database, timer control, and animations.  
+  Great for practicing logic, UI with Windows Forms, and event handling.
 </p>
-<p>Custom version of the popular game <strong>Pasapalabra</strong> built with <strong>.NET (C#)</strong>.  
-Features round-based gameplay, question database, timer control, and animations.  
-Great for practicing logic, UI with Windows Forms, and event handling.</p>
 </div>
 </td>
-
-</tr>
-</table>
 
 ---
 
