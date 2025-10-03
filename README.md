@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d079ff0d-eeda-437d-8045-78e468bc5404" alt="Diana perfil" width="250" />
+  <img src="https://github.com/user-attachments/assets/d079ff0d-eeda-437d-8045-78e468bc5404" alt="Diana perfil" width="1000" />
 </p>
 
 
