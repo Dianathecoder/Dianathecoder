@@ -29,7 +29,6 @@
 - 🧠 Passionate about learning new tools and best practices
 - 🤝 I enjoy working in teams and building meaningful solutions
 - 📲 Interested in mobile development, backend services, and cross-platform projects
-- 🌍 Ready to join a team as a Junior Developer
 
 ---
 
