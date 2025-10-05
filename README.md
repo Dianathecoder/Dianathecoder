@@ -2,10 +2,6 @@
   <h1>Hi, I'm Diana 👋!</h1>
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dianathecoder/Dianathecoder/main/perfil.png" alt="Diana profile" width="1000" />
-</p>
-
 <div align="center">
 
 💻 I'm passionate about building functional, clean, and modern tech solutions.  
