@@ -1,16 +1,9 @@
 <div align="center">
   <h1>Hi, I'm Diana 👋!</h1>
 </div>
-
 <div align="center">
-
-💻 I'm passionate about building functional, clean, and modern tech solutions.  
-🎯 I’m looking for opportunities to grow as a developer, especially in collaborative and challenging environments.
-
 </div>
-
 ---
-
 ## 🛠️ Technologies I use
 
 <p align="center">
@@ -22,15 +15,8 @@
 </p>
 
 ---
-
 ## 👩‍💻 About Me
-
-- 💼 Graduate in 3d Animation and currently studying Multiplatform Application Development (DAM).
-- 🧠 Passionate about learning new tools and best practices
-- 🤝 I enjoy working in teams and building meaningful solutions
-- 📲 Interested in mobile development, backend services, and cross-platform projects
-
+- Graduate in 3d Animation and currently studying Multiplatform Application Development (DAM).
 ---
-
 <p align="center"><strong>Thanks for visiting my profile!</strong></p>
 
