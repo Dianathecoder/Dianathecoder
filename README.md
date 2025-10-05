@@ -15,7 +15,9 @@
 </p>
 
 ---
+<p>
 Graduate in 3d Animation and currently studying Multiplatform Application Development (DAM).
+</p>
 ---
 <p align="center"><strong>Thanks for visiting my profile!</strong></p>
 
