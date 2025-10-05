@@ -25,19 +25,10 @@
 
 ## 👩‍💻 About Me
 
-- 💼 Graduate in Multiplatform Application Development (DAM)
+- 💼 Graduate in 3d Animation and currently studying Multiplatform Application Development (DAM).
 - 🧠 Passionate about learning new tools and best practices
 - 🤝 I enjoy working in teams and building meaningful solutions
 - 📲 Interested in mobile development, backend services, and cross-platform projects
-
----
-
-## 📫 Contact
-
-If you're looking for a proactive junior developer who's eager to learn and contribute to your team, I’d love to hear from you!
-
-- 📧 Email: [diana.canyas15@gmail.com](mailto:diana.canyas15@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/diana-canyas-016206254](https://www.linkedin.com/in/diana-canyas-016206254/)
 
 ---
 
