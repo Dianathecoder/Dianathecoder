@@ -1,15 +1,21 @@
-<div align="center">
-  <h1>Hi, I'm Diana </h1>
-</div>
-<div align="center">
-</div>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
-<p align="center">Graduate in 3d Animation and Multiplatform Application Development(DAM).</p>
-<p align="center"><strong>Thanks for visiting my profile!</strong></p>
+# ¡Hola, soy Diana!
+
+** Mobile Developer (Android & Flutter) | Backend Backend con Spring Boot**
+
+Recientemente graduada en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y Animación 3D. Me especializo en construir aplicaciones móviles nativas y multiplataforma con arquitecturas modernas, creando tanto interfaces fluidas como los sistemas backend que las soportan.
+
+###  Mis Conocimientos
+
+**Desarrollo Móvil:**
+![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Backend y Datos:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 
