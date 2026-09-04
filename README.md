@@ -1,8 +1,8 @@
-# ¡Hola, soy Diana!
+# ¡Hola, soy Diana! 
 
-** Mobile Developer (Android & Flutter) | Backend Backend con Spring Boot**
+** Mobile Developer (Android & Flutter) | Backend con Spring Boot**
 
-Recientemente graduada en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y Animación 3D. Me especializo en construir aplicaciones móviles nativas y multiplataforma con arquitecturas modernas, creando tanto interfaces fluidas como los sistemas backend que las soportan.
+Titulada en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y **Animación 3D**. Me especializo en construir aplicaciones móviles nativas y multiplataforma con arquitecturas modernas, creando tanto interfaces fluidas como los sistemas backend que las soportan.
 
 ###  Mis Conocimientos
 
@@ -16,6 +16,8 @@ Recientemente graduada en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
+---
+¡Gracias por tu visita! ✨
 
