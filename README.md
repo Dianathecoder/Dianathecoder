@@ -23,6 +23,6 @@ Degree in **Multiplatform Application Development (DAM)** and **3D Animation**.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
-Thanks for visiting my profile! ✨
+Thanks for visiting my profile!
 
 </div>
